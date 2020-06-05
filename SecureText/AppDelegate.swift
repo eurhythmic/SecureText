@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SecureText
 //
-//  Created by RnD on 6/4/20.
+//  Created by RnD on 6/3/20.
 //  Copyright © 2020 RnD. All rights reserved.
 //
 
